@@ -1,12 +1,13 @@
 # :boom: Repositório dos desafios do bootcamp GFT START 4
 
-[Enunciado das questões iniciais](https://github.com/robinhosz/DesafioGFT4/blob/master/desafiosInicial.md)
+[Enunciado das questões dos desafios iniciais](https://github.com/robinhosz/DesafioGFT4/blob/master/EnunciadoQuest%C3%B5es/desafiosInicial.md)
 <br>
-[Enunciado das questões básicas](https://github.com/robinhosz/DesafioGFT4/blob/master/desafiosBasicos.md)
+[Enunciado das questões dos desafios básicos](https://github.com/robinhosz/DesafioGFT4/blob/master/EnunciadoQuest%C3%B5es/desafiosBasicos.md)
 <br>
-[Enunciado das outras questões](https://github.com/robinhosz/DesafioGFT4/blob/master/DesafiosGFT.md)
+[Enunciado das outras questões dos desafios](https://github.com/robinhosz/DesafioGFT4/blob/master/EnunciadoQuest%C3%B5es/DesafiosGFT.md)
 <br>
-
+[Enunciado das questões  dos desafios intermediários](https://github.com/robinhosz/DesafioGFT4/blob/master/EnunciadoQuest%C3%B5es/DesafiosIntermediarios.md)
+<br>
 
 <details>
     <summary><strong>Desafios Java</strong></summary>
@@ -96,7 +97,39 @@
                 <td><a href="https://github.com/robinhosz/DesafioGFT4/blob/master/src/Desafios/NotasMoedas.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
-                 </div>
+               <table border=1>
+            <tr>
+                <th colspan="4">Desafios Intermediários</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Área Direita</td>
+                <td><a href="https://github.com/robinhosz/DesafioGFT4/blob/master/src/DesafioIntermediario/AreaDireita.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Experiências</td>
+                <td><a href="https://github.com/robinhosz/DesafioGFT4/blob/master/src/DesafioIntermediario/Experiencias.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Tabuleiro Secreto</td>
+                <td><a href="https://github.com/robinhosz/DesafioGFT4/blob/master/src/DesafioIntermediario/TabuleiroSecreto.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+                   
+              
+              
                                                                           
 </details>
           
