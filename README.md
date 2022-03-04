@@ -10,7 +10,7 @@
 <br>
 
 <details>
-    <summary><strong>Desafios Java</strong></summary>
+    <summary><strong>Códigos dos Desafios</strong></summary>
     <br />
     <div align="left">
         <table border=1>
